@@ -162,7 +162,7 @@ button {
   font-weight: 600;
   cursor: pointer;
   color: Black;
-  background-color: White;
+  background-color: white;
   margin: 16px 0;
   white-space: nowrap;
   overflow: hidden;
@@ -174,7 +174,7 @@ a.button:hover,
 a.button:focus,
 button:hover,
 button:focus {
-  background-color: var(--link-hover-color);
+  background-color: red;
   cursor: pointer;
 }
 
